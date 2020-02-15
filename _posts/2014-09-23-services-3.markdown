@@ -2,8 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: 연혁 History
+title: 품격있는 서비스와 배려있는 서비스
 description: |
 ---
-1999 : (주)서울렌탈 창업
-* 현재
+정교한 기술과 완벽한 디테일을 통한 품격 있는 렌탈 서비스를 제공 합니다. 깊은 신뢰, 안정한 환경, 감성적 배려 서비스를 만나보세요.
