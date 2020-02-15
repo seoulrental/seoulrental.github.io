@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: 무엇보다 소중한 것은 하나뿐인 생명입니다.
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  고소작업대의 안정은 무엇보다도 중요합니다. 작업자의 편의를 항상 생각하고 생명을 소중히 여기며 개선할 점을 항상 찾아가고 있으며, 여러분의 요구에 항상 고민하며 해결을 최선을 다할 것입니다.
