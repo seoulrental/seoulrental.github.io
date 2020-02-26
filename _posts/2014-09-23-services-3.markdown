@@ -1,6 +1,6 @@
 ---
 layout: default
-img: SJIII4632.jpg
+img: GenieZ45RT.png
 category: Services
 title: 품격있는 서비스와 배려있는 서비스
 description: |
