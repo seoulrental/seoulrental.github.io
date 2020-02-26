@@ -32,5 +32,5 @@ social:
 #    url: https://github.com/IronSummitMedia/startbootstrap
   - title: 전화하기
     url: tel:010 9034 7575
-  - title: 문자보내기
-    url: sms:010 9034 7575
+#  - title: 문자보내기
+#    url: sms:010 9034 7575
