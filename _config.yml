@@ -12,7 +12,7 @@ description: > # "Write an awesome description for your new site here.
   description.
 copyright: 'Copyright &copy; 2020 (주)서울렌탈. All Rights Reserved.'
 #credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
-credits: '업체명: (주)서울렌탈, 사업자번호: 130-81-62271, 대표자명: 복민서, 주소: 경기도 화성시 장안면 장안로 309면 장안로 309번 가길 23 (16336), 연락처: 031-292-2007, 핸드폰: 010-9034-7575'
+credits: '업체명: (주)서울렌탈</br>사업자번호: 130-81-62271, 대표자명: 복민서</br>주소: 경기도 화성시 장안면 장안로 309면 장안로 309번 가길 23 (16336)</br>연락처: 031-292-2007, 핸드폰: 010-9034-7575'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
