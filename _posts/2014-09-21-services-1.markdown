@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: SJ3219.jpg
 category: Services
 title: 창립 20주년 맞은 서울렌탈
 description: |
