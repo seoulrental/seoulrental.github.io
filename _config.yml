@@ -26,10 +26,10 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
   - title: 전화하기
     url: tel:010 9034 7575
   - title: 문자보내기
